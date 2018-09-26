@@ -10,6 +10,6 @@
 
 
 
-<!-- <?php echo $lang['azozz'] ?> -->
+echo $lang['azozz'] 
  
  
